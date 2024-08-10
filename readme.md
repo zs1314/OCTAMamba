@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/logo.png" width="1000">
+<img src="assets/logo.png">
 <h3>OCTAMamba</h3>
 
 [[`Paper`]()] 
@@ -39,8 +39,8 @@ The repo is based on the [VMama repo](https://github.com/MzeroMiko/VMamba), thus
 Clone this repository and navigate to the project directory:
 
 ```bash
-git clone https://github.com/ChenHongruixuan/MambaCD.git
-cd msmamba
+git clone https://github.com/zs1314/OCTAMamba.git
+cd OCTAMamba
 ```
 
 
@@ -151,7 +151,7 @@ python run_benchmark.py
 🐥: Before training and testing, configure the relevant parameters in the script
 
 ###  `D. Get model weights`
-You can download the model weights (OCTAMamba) from here: [BaiduNetdisk](https://pan.baidu.com/s/1Ck1jSQU-m61LU-R253llRA?pwd=un3f) or [Google Drive](https://drive.google.com/file/d/1vrouJ9TKi_Dyj0ZWP0D-upRLFWB45Ryg/view?usp=drive_link)
+You can download the model weights (OCTAMamba) from here: [Baidu Netdisk](https://pan.baidu.com/s/1Ck1jSQU-m61LU-R253llRA?pwd=un3f) or [Google Drive](https://drive.google.com/file/d/1vrouJ9TKi_Dyj0ZWP0D-upRLFWB45Ryg/view?usp=drive_link)
 
 ###  `E. Model Predict`
 ```bash
