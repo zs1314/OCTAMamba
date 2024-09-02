@@ -8,20 +8,20 @@
 </div>
 
 ## Abstract
-
+Optical Coherence Tomography Angiography (OCTA) is a crucial imaging technique for visualizing retinal vasculature and diagnosing eye diseases such as diabetic retinopathy and glaucoma. However, precise segmentation of OCTA vasculature remains challenging due to the multi-scale vessel structures and noise from poor image quality and eye lesions. In this study, we proposed OCTAMamba, a novel U-shaped network based on the Mamba architecture, designed to segment vasculature in OCTA accurately. OCTAMamba integrates a Quad Stream Efficient Mining Embedding Module for local feature extraction, a Multi-Scale Dilated Asymmetric Convolution Module to capture multi-scale vasculature, and a Focused Feature Recalibration Module to filter noise and highlight target areas. Our method achieves efficient global modeling and local feature extraction while maintaining linear complexity, making it suitable for low-computation medical applications. Extensive experiments on the OCTA 3M, OCTA 6M, and ROSSA datasets demonstrated that OCTAMamba outperforms state-of-the-art methods, providing a new reference for efficient OCTA segmentation. Code is available at https://github.com/zs1314/OCTAMamba
 ## Overview
 <p align="center">
-  <img src="assets/overview.jpg" alt="accuracy" width="100%">
+  <img src="assets/overall.png" alt="accuracy" width="100%">
 </p>
 
 ## Quantitative results
 <div align="center">
-<img src="assets/table1.png" width="1000">
+<img src="assets/tab.png" width="1000">
 </div>
 
 ## Qualitative visualization 
 <div align="center">
-<img src="assets/fig2.jpg" width="1000">
+<img src="assets/visual_result.png" width="1000">
 </div>
 
 ---
