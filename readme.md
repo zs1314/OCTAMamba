@@ -171,14 +171,11 @@ This project is based on VMamba ([paper](https://arxiv.org/abs/2401.10166), [cod
 If this code or paper contributes to your research, please kindly consider citing our paper and give this repo ⭐️ 🌝
 
 ```
-@misc{zou2024octamambastatespacemodelapproach,
-      title={OCTAMamba: A State-Space Model Approach for Precision OCTA Vasculature Segmentation}, 
-      author={Shun Zou and Zhuo Zhang and Guangwei Gao},
-      year={2024},
-      eprint={2409.08000},
-      archivePrefix={arXiv},
-      primaryClass={eess.IV},
-      url={https://arxiv.org/abs/2409.08000}, 
+@article{zou2024octamamba,
+  title={OCTAMamba: A State-Space Model Approach for Precision OCTA Vasculature Segmentation},
+  author={Zou, Shun and Zhang, Zhuo and Gao, Guangwei},
+  journal={arXiv preprint arXiv:2409.08000},
+  year={2024}
 }
 ```
 
