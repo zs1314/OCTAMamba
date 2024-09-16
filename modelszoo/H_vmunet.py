@@ -553,7 +553,7 @@ class VSSLayer(nn.Module):
             )
             for i in range(depth)])
 
-        if True:  # is this really applied? Yes, but been overriden later in VSSM!
+        if True:  # is this really applied? Yes, but been overridden later in VSSM!
             def _init_weights(module: nn.Module):
                 for name, p in module.named_parameters():
                     if name in ["out_proj.weight"]:
@@ -619,7 +619,7 @@ class VSSLayer_up(nn.Module):
             )
             for i in range(depth)])
 
-        if True:  # is this really applied? Yes, but been overriden later in VSSM!
+        if True:  # is this really applied? Yes, but been overridden later in VSSM!
             def _init_weights(module: nn.Module):
                 for name, p in module.named_parameters():
                     if name in ["out_proj.weight"]:
