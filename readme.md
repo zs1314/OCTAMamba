@@ -3,7 +3,7 @@
 <h3>OCTAMamba</h3>
 
 [[`Paper`](https://arxiv.org/abs/2409.08000)] 
-[[`Project Page`]()]
+[[`Project Page`](https://zs1314.github.io/OCTAMamba/)]
 
 </div>
 
